@@ -91,6 +91,14 @@ internal class MemberDAO
                 Password = "123456",
                 City = "Ky Anh",
                 Country = "Viet Nam"
+            },new MemberObject
+            {
+                MemberID = 8,
+                MemberName = "xunche",
+                Email = "nothing14@gmail.com",
+                Password = "123456",
+                City = "dhasjkjhdk",
+                Country = "China"
             }
 
 
