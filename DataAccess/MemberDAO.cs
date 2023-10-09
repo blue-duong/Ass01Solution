@@ -83,6 +83,14 @@ internal class MemberDAO
                 Password = "123456",
                 City = "Ky Anh",
                 Country = "Viet Nam"
+            },new MemberObject
+            {
+                MemberID = 7,
+                MemberName = "vipvipvip",
+                Email = "blue3214@gmail.com",
+                Password = "123456",
+                City = "Ky Anh",
+                Country = "Viet Nam"
             }
 
 
