@@ -75,9 +75,17 @@ internal class MemberDAO
                 Password = "123456",
                 City = "Ky Anh",
                 Country = "Viet Nam"
-            },
-            
-            
+            },new MemberObject
+            {
+                MemberID = 6,
+                MemberName = "bluemcq",
+                Email = "blue@gmail.com",
+                Password = "123456",
+                City = "Ky Anh",
+                Country = "Viet Nam"
+            }
+
+
         };
     private MemberDAO()
     {
